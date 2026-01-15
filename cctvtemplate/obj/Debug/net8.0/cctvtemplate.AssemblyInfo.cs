@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cctvtemplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dee22acbf988a01ae12e2628e1576af4cf16535")]
 [assembly: System.Reflection.AssemblyProductAttribute("cctvtemplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cctvtemplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

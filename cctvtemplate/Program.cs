@@ -1,3 +1,6 @@
+using cctvtemplate.Context;
+using Microsoft.EntityFrameworkCore;
+
 namespace cctvtemplate
 {
     public class Program
@@ -8,6 +11,11 @@ namespace cctvtemplate
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddDbContext<AppDbContext>(opt =>
+            {
+                opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
+            });
 
             var app = builder.Build();
 
