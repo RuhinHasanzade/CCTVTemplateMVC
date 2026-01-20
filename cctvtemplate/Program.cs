@@ -1,11 +1,15 @@
 using cctvtemplate.Context;
+using cctvtemplate.Helpers;
+using cctvtemplate.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
 
 namespace cctvtemplate
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
 
@@ -17,7 +21,20 @@ namespace cctvtemplate
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
             });
 
+            builder.Services.AddIdentity<AppUser , IdentityRole>(options =>
+            {
+
+            }).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
+
+            builder.Services.AddScoped<DbContextInitalizer>();
+
             var app = builder.Build();
+
+            var scope = app.Services.CreateScope();
+
+            var init = scope.ServiceProvider.GetRequiredService<DbContextInitalizer>();
+
+            await init.DbContextInit();
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
@@ -32,7 +49,16 @@ namespace cctvtemplate
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
+
+           
+                app.MapControllerRoute(
+                  name: "areas",
+                  pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
+                );
+           
+
 
             app.MapControllerRoute(
                 name: "default",

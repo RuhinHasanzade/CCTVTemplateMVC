@@ -1,0 +1,45 @@
+﻿
+@model BlogCreateVm
+
+<div class="container">
+    <div class="row">
+        <h2 class="center">Create Blog</h2>
+        <form method="post" asp-controller="Blog" asp-action="Create" enctype="multipart/form-data">
+            <div class="text-danger" asp-validation-summary="ModelOnly"></div>
+            <div class="form-group">
+                <label asp-for="Description">Description</label>
+                <input asp-for="Description" class="form-control" placeholder="Enter Description">
+                <span class="text-danger" asp-validation-for="Description"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Image">Image</label>
+                <input asp-for="Image" class="form-control" placeholder="Enter Image">
+                <span class="text-danger" asp-validation-for="Image"></span>
+
+            </div>
+
+            <div class="form-group">
+                
+                <input type="date" asp-for="PostedDate" class="form-control" placeholder="Enter Date">
+                <span class="text-danger" asp-validation-for="PostedDate"></span>
+
+            </div>
+
+            <div class="form-group">
+                <select class="form-control" asp-for="TagId" asp-items="@ViewBag.Tags">
+
+                </select>
+                <span class="text-danger" asp-validation-for="TagId"></span>
+
+            </div>
+
+           
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>
+
+@* @section Scripts{
+    <partial name="_ValidationSc"></partial>
+} *@

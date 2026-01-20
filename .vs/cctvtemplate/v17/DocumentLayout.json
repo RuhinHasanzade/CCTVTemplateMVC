@@ -3,48 +3,160 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Migrations\\20260115082407_AddedModelsAndConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cctvtemplate\\Migrations\\20260115082407_AddedModelsAndConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\viewmodels\\blogviewmodels\\blogupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\viewmodels\\blogviewmodels\\blogupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\areas\\admin\\views\\blog\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\areas\\admin\\views\\blog\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\areas\\admin\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\areas\\admin\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\areas\\admin\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\areas\\admin\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\viewmodels\\blogviewmodels\\blogcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\viewmodels\\blogviewmodels\\blogcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\configuration\\blogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\configuration\\blogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\viewmodels\\blogviewmodels\\bloggetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\viewmodels\\blogviewmodels\\bloggetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\cctvtemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\cctvtemplate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\configuration\\blogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\configuration\\blogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Migrations\\20260120165026_AddedAppUser2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cctvtemplate\\Migrations\\20260120165026_AddedAppUser2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\helpers\\dbcontextinitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\helpers\\dbcontextinitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\viewmodels\\authviewmodels\\adminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\viewmodels\\authviewmodels\\adminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\viewmodels\\authviewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\viewmodels\\authviewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Migrations\\20260120154255_AddedAppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cctvtemplate\\Migrations\\20260120154255_AddedAppUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\viewmodels\\authviewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\viewmodels\\authviewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\migrations\\20260115082407_addedmodelsandconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\migrations\\20260115082407_addedmodelsandconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -57,18 +169,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|c:\\users\\asus\\source\\repos\\cctvtemplate\\cctvtemplate\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9ABD960A-3F64-4441-94E4-7C45B3B4E707}|cctvtemplate\\cctvtemplate.csproj|solutionrelative:cctvtemplate\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,206 +178,297 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260115082407_AddedModelsAndConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Migrations\\20260115082407_AddedModelsAndConfiguration.cs",
-              "RelativeDocumentMoniker": "cctvtemplate\\Migrations\\20260115082407_AddedModelsAndConfiguration.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Migrations\\20260115082407_AddedModelsAndConfiguration.cs",
-              "RelativeToolTip": "cctvtemplate\\Migrations\\20260115082407_AddedModelsAndConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T08:24:08.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\appsettings.json",
-              "RelativeDocumentMoniker": "cctvtemplate\\appsettings.json",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\appsettings.json",
-              "RelativeToolTip": "cctvtemplate\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-15T08:19:32.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BlogConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Configuration\\BlogConfiguration.cs",
-              "RelativeDocumentMoniker": "cctvtemplate\\Configuration\\BlogConfiguration.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Configuration\\BlogConfiguration.cs",
-              "RelativeToolTip": "cctvtemplate\\Configuration\\BlogConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T07:54:45.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "cctvtemplate",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\cctvtemplate.csproj",
-              "RelativeDocumentMoniker": "cctvtemplate\\cctvtemplate.csproj",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\cctvtemplate.csproj",
-              "RelativeToolTip": "cctvtemplate\\cctvtemplate.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-15T07:52:24.058Z",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "RelativeDocumentMoniker": "cctvtemplate\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "RelativeToolTip": "cctvtemplate\\Areas\\Admin\\Views\\Blog\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T21:51:05.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "cctvtemplate\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "cctvtemplate\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Title": "BlogUpdateVm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\ViewModels\\BlogViewModels\\BlogUpdateVm.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\ViewModels\\BlogViewModels\\BlogUpdateVm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\ViewModels\\BlogViewModels\\BlogUpdateVm.cs",
+              "RelativeToolTip": "cctvtemplate\\ViewModels\\BlogViewModels\\BlogUpdateVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T07:52:37.966Z",
+              "WhenOpened": "2026-01-20T21:34:17.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\Helpers\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "cctvtemplate\\Helpers\\FileHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T19:12:56.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "cctvtemplate\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "cctvtemplate\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T18:46:20.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Models\\Tag.cs",
-              "RelativeDocumentMoniker": "cctvtemplate\\Models\\Tag.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Models\\Tag.cs",
-              "RelativeToolTip": "cctvtemplate\\Models\\Tag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T07:43:42.933Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "RelativeDocumentMoniker": "cctvtemplate\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "RelativeToolTip": "cctvtemplate\\Areas\\Admin\\Views\\Blog\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T18:38:47.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "BlogCreateVm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\ViewModels\\BlogViewModels\\BlogCreateVm.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\ViewModels\\BlogViewModels\\BlogCreateVm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\ViewModels\\BlogViewModels\\BlogCreateVm.cs",
+              "RelativeToolTip": "cctvtemplate\\ViewModels\\BlogViewModels\\BlogCreateVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:36:00.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "cctvtemplate\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "cctvtemplate\\Areas\\Admin\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T18:28:08.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlogGetVm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\ViewModels\\BlogViewModels\\BlogGetVm.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\ViewModels\\BlogViewModels\\BlogGetVm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\ViewModels\\BlogViewModels\\BlogGetVm.cs",
+              "RelativeToolTip": "cctvtemplate\\ViewModels\\BlogViewModels\\BlogGetVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:24:36.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "cctvtemplate\\Areas\\Admin\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:22:55.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "cctvtemplate\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "cctvtemplate\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T18:15:58.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "cctvtemplate\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "cctvtemplate\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAIwNgAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T18:15:38.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "cctvtemplate\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:14:52.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Models\\AppUser.cs",
+              "RelativeToolTip": "cctvtemplate\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T15:19:30.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Models\\Blog.cs",
               "RelativeDocumentMoniker": "cctvtemplate\\Models\\Blog.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Models\\Blog.cs",
               "RelativeToolTip": "cctvtemplate\\Models\\Blog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T07:41:40.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Models\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "cctvtemplate\\Models\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Models\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "cctvtemplate\\Models\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T07:41:24.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "cctvtemplate\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "cctvtemplate\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T07:40:56.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Program.cs",
-              "RelativeDocumentMoniker": "cctvtemplate\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Program.cs",
-              "RelativeToolTip": "cctvtemplate\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T07:34:09.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\Blog\\Index.cshtml",
-              "RelativeDocumentMoniker": "cctvtemplate\\Views\\Blog\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\Blog\\Index.cshtml",
-              "RelativeToolTip": "cctvtemplate\\Views\\Blog\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T07:30:50.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "cctvtemplate\\Controllers\\BlogController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "cctvtemplate\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T07:30:34.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "cctvtemplate\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "cctvtemplate\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAIBJwCkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-15T07:21:58.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "cctvtemplate\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "cctvtemplate\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T07:21:49.109Z",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "cctvtemplate\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:52:37.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "cctvtemplate\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "cctvtemplate\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T15:23:19.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "cctvtemplate\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "cctvtemplate\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T15:23:41.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "cctvtemplate\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "cctvtemplate\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "cctvtemplate\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "cctvtemplate\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T07:21:48.078Z",
+              "WhenOpened": "2026-01-20T18:15:57.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "cctvtemplate\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "cctvtemplate\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwDAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T18:15:14.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Program.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Program.cs",
+              "RelativeToolTip": "cctvtemplate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:34:09.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "cctvtemplate\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "cctvtemplate\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-20T16:51:37.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "cctvtemplate\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -290,7 +481,237 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
+              "Title": "20260120165026_AddedAppUser2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Migrations\\20260120165026_AddedAppUser2.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\Migrations\\20260120165026_AddedAppUser2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Migrations\\20260120165026_AddedAppUser2.cs",
+              "RelativeToolTip": "cctvtemplate\\Migrations\\20260120165026_AddedAppUser2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:50:26.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DbContextInitalizer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Helpers\\DbContextInitalizer.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\Helpers\\DbContextInitalizer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Helpers\\DbContextInitalizer.cs",
+              "RelativeToolTip": "cctvtemplate\\Helpers\\DbContextInitalizer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:13:12.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminVm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\ViewModels\\AuthViewModels\\AdminVm.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\ViewModels\\AuthViewModels\\AdminVm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\ViewModels\\AuthViewModels\\AdminVm.cs",
+              "RelativeToolTip": "cctvtemplate\\ViewModels\\AuthViewModels\\AdminVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T16:14:12.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\ViewModels\\AuthViewModels\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\ViewModels\\AuthViewModels\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\ViewModels\\AuthViewModels\\RegisterVm.cs",
+              "RelativeToolTip": "cctvtemplate\\ViewModels\\AuthViewModels\\RegisterVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T15:37:16.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "cctvtemplate\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T15:20:24.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Models\\Tag.cs",
+              "RelativeToolTip": "cctvtemplate\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:43:42.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20260120154255_AddedAppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Migrations\\20260120154255_AddedAppUser.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\Migrations\\20260120154255_AddedAppUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Migrations\\20260120154255_AddedAppUser.cs",
+              "RelativeToolTip": "cctvtemplate\\Migrations\\20260120154255_AddedAppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T15:42:55.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "cctvtemplate\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "cctvtemplate\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T07:21:49.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "cctvtemplate\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "cctvtemplate\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T07:21:48.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\ViewModels\\AuthViewModels\\LoginVm.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\ViewModels\\AuthViewModels\\LoginVm.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\ViewModels\\AuthViewModels\\LoginVm.cs",
+              "RelativeToolTip": "cctvtemplate\\ViewModels\\AuthViewModels\\LoginVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T15:24:26.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20260115082407_AddedModelsAndConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Migrations\\20260115082407_AddedModelsAndConfiguration.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\Migrations\\20260115082407_AddedModelsAndConfiguration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Migrations\\20260115082407_AddedModelsAndConfiguration.cs",
+              "RelativeToolTip": "cctvtemplate\\Migrations\\20260115082407_AddedModelsAndConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T08:24:08.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BlogConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Configuration\\BlogConfiguration.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\Configuration\\BlogConfiguration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Configuration\\BlogConfiguration.cs",
+              "RelativeToolTip": "cctvtemplate\\Configuration\\BlogConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:54:45.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\appsettings.json",
+              "RelativeDocumentMoniker": "cctvtemplate\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\appsettings.json",
+              "RelativeToolTip": "cctvtemplate\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-15T08:19:32.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "cctvtemplate.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\cctvtemplate.csproj",
+              "RelativeDocumentMoniker": "cctvtemplate\\cctvtemplate.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\cctvtemplate.csproj",
+              "RelativeToolTip": "cctvtemplate\\cctvtemplate.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-15T07:52:24.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "cctvtemplate\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "cctvtemplate\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T07:30:50.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "cctvtemplate\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:40:56.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Models\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Models\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "cctvtemplate\\Models\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:41:24.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "cctvtemplate\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "cctvtemplate\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:30:34.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\cctvtemplate\\cctvtemplate\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "cctvtemplate\\Views\\Home\\Index.cshtml",
@@ -298,8 +719,7 @@
               "RelativeToolTip": "cctvtemplate\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAIgBAAAAAAAAAAAUwKQBAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T07:21:43.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T07:21:43.392Z"
             }
           ]
         }

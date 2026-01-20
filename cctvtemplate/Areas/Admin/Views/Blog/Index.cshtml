@@ -1,0 +1,39 @@
+﻿@model List<BlogGetVm>
+
+    <div class="container">
+        <div class="row-cols-4">
+            <a class="btn btn-success " asp-controller="Blog" asp-action="Create" >Create + </a>
+        </div>
+        <div class="row">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">#ID</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Image</th>
+                    <th scope="col">PostedDate</th>
+                    <th scope="col">Tag</th>
+                    <th scope="col">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var blog in Model)
+                {
+                    <tr>
+                        <th scope="row">@blog.Id</th>
+                        <td>@blog.Description</td>
+                        <td>
+                            <img src="~/img/@blog.ImageUrl" alt="Alternate Text" />
+                        </td>
+                        <td>@blog.PostedDate</td>
+                        <td>@blog.TagName</td>
+                        <td>
+                            <a class="btn btn-warning" asp-action= "Update" asp-route-id="@blog.Id">Update</a>
+                            <a class="btn btn-danger" asp-action ="Delete" asp-route-id="@blog.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        </div>
+    </div>
